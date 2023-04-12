@@ -21,11 +21,11 @@ Prototypes for functions written in this project:
 
   - **0. Rectangle #0**
     >
-    - 0-rectangle.js: JavaScript script that defines an empty class Rectangle.
+    - [0-rectangle.js](https://github.com/Honeydropjahbless/alx-higher_level_programming/blob/main/0x13-javascript_objects_scopes_closures/0-rectangle.js): JavaScript script that defines an empty class Rectangle.
     >
   - **1. Rectangle #1**
     >
-    - 1-rectangle.js: JavaScript script that defines a class Rectangle. Builds on 0-rectangle.js with:
+    - 1-rectangle.js: JavaScript script that defines a class Rectangle. Builds on [0-rectangle.js](https://github.com/Honeydropjahbless/alx-higher_level_programming/blob/main/0x13-javascript_objects_scopes_closures/0-rectangle.js) with:
         - Constructor that initializes instance attributes width and height with given parameters w and h.
     >
   - **2. Rectangle #2**
